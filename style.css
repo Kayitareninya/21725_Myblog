@@ -1,0 +1,21 @@
+.icon-bar{
+
+    background:green;
+    
+    }
+
+    .col-sm-10{
+
+        margin: 10px 10px;
+    }
+
+    .img {
+        margin-right: 80px;
+    }
+    .footer {
+        padding: 1em;
+        color:black;
+        background-color: white;
+        clear: left;
+        text-align: center;
+    }
